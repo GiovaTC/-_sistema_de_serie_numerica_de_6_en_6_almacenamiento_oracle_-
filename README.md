@@ -3,6 +3,8 @@
 
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/cbb21ab9-af23-4e2d-9e70-df3d2f46ffac" />    
 
+<img width="2545" height="1079" alt="image" src="https://github.com/user-attachments/assets/ed56510b-9514-4e8b-b42d-b51bf463e58f" />    
+
 ```
 
 ## Sistema de Serie Numérica de 6 en 6 con Almacenamiento en Oracle
