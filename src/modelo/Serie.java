@@ -55,4 +55,4 @@ public class Serie {
     public void setSumaTotal(int sumaTotal) {
         this.sumaTotal = sumaTotal;
     }
-}   
+}
